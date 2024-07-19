@@ -16,7 +16,7 @@ namespace cajeroAutomatico
             do
             {
                 Console.Clear();
-                Console.WriteLine("Bienvenido al cajero automático.");
+                Console.WriteLine("Bienvenido al cajero automático JoseTamara.");
                 Console.WriteLine("1. Ver saldo");
                 Console.WriteLine("2. Depositar dinero");
                 Console.WriteLine("3. Retirar dinero");
