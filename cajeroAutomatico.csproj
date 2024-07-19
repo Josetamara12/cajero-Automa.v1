@@ -6,3 +6,14 @@
   </PropertyGroup>
 
 </Project>
+
+<!--Tener en cuenta 
+Agregada la funcionalidad inicial del cajero automático, incluyendo las interacciones del usuario 
+para verificar saldo, depositar y retirar dinero. 
+Actualizado el proyecto para usar .NET 6.0 y renombrada la rama master a main."
+
+Añadidas instrucciones para ejecutar la aplicación: 
+1) Construir el proyecto con 'dotnet build cajeroautomatico.csproj', 
+2) Ejecutar la aplicación con 'dotnet run --project cajeroautomatico.csproj'. 
+Incluidas también advertencias sobre la necesidad de tener el runtime de .NET 6.0 instalado."
+-->
